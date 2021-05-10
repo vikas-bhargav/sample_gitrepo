@@ -1,1 +1,2 @@
 This is my master test file!
+This is my child branch changes!
